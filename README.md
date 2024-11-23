@@ -35,3 +35,19 @@ Install the aws cli by following the steps in the [aws documentation](https://do
 ---
 
 If you have any question or concern, message me on Facebook at [Vittorio Rossi](https://web.facebook.com/profile.php?id=100010409105751). I will be happy to get you ready for our intense, hands-on workshop in the cloud!
+
+
+# Workshop day!
+
+## Sign-ins
+Sing into the [AWS console here](https://160885274670.signin.aws.amazon.com/console)
+
+The password is: 
+`recsys2024!`
+Your username will be communicated to you on site.
+
+Sign into the [Snowflake console here](https://mzzkhgy-lk09606.snowflakecomputing.com/console/login)
+
+The password is: 
+`SFrecsys2024!`
+Your username will be communicated to you on site.
