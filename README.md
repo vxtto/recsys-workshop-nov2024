@@ -51,3 +51,5 @@ Sign into the [Snowflake console here](https://mzzkhgy-lk09606.snowflakecomputin
 The password is: 
 `SFrecsys2024!`
 Your username will be communicated to you on site.
+
+[Clone here!](https://github.com/Snowflake-Labs/sfguide-recommender-pipeline)
